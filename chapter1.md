@@ -39,13 +39,13 @@
         mode = 2
 
         data = [1, 2, 1, 2, 3, 4]
-        mode = 1 and 2
+        mode = [1, 2]
         ```
-> Example :
-> data = [3, 3, 3, 3, 3, 100]
-> mean = 19.166 
-> median = 3 #adequate
-> mode = 3 #adequate
+> Example :  
+> data = [3, 3, 3, 3, 3, 100]  
+> mean = 19.166   
+> median = 3 #adequate  
+> mode = 3 #adequate  
 ---
 ### `Sample and Population`
 ![sample and population](images/sample.population.png)
